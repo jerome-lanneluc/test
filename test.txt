@@ -1,6 +1,2 @@
 my new file contents
-<<<<<<< HEAD
-
-=======
 jaezzeaez
->>>>>>> 71c6a375e17316590bed54d28cd7133b35fa1583
