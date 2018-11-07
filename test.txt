@@ -1,2 +1,2 @@
 my new file contents
-jz
+j
